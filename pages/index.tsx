@@ -26,7 +26,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by inserring an expression below.
+          Get started by inserting an expression below.
         </p>
 
         <input
